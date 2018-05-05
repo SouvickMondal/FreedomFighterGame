@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\char\player.cs">
+    <Files>
+      <File FileName="Assets\Tank_Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Level_Completed.cs" Line="1" Column="1" />
+      <File FileName="Assets\char\player.cs" Line="16" Column="30" />
+      <File FileName="Assets\coli.cs" Line="1" Column="1" />
+      <File FileName="Assets\Tank_Collider.cs" Line="1" Column="1" />
+      <File FileName="Assets\level3_complete.cs" Line="1" Column="1" />
+      <File FileName="Assets\play_again.cs" Line="1" Column="1" />
+      <File FileName="Assets\play.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

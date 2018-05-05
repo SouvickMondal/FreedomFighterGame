@@ -1,0 +1,133 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1115 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.259 seconds
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.584250 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.381215 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 375.
+Total: 0.427452 ms (FindLiveObjects: 0.050714 ms CreateObjectMapping: 0.062185 ms MarkObjects: 0.287383 ms  DeleteObjects: 0.025357 ms)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+h=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+h=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+h=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level Cleared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.630720 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.594087 ms (FindLiveObjects: 0.063393 ms CreateObjectMapping: 0.056148 ms MarkObjects: 0.460055 ms  DeleteObjects: 0.011471 ms)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+h=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+h=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level Cleared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level Cleared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.833170 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 1.131421 ms (FindLiveObjects: 0.062185 ms CreateObjectMapping: 0.038639 ms MarkObjects: 1.017313 ms  DeleteObjects: 0.011471 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.889533 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.683441 ms (FindLiveObjects: 0.083920 ms CreateObjectMapping: 0.084524 ms MarkObjects: 0.452810 ms  DeleteObjects: 0.059167 ms)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+h=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+h=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1115 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Study\LpuSem4\Game\FreedomFighter\Escape The Border1_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: be8 -> priority: 1 
+  Thread -> id: 1c6c -> priority: 1 
